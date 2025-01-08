@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-     "test": "jest --runInBand"
+    "test": "jest --runInBand"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,8 @@
     "dotenv": "^16.4.7",
     "jest": "^29.7.0",
     "ts-jest": "^29.2.5"
+  },
+  "dependencies": {
+    "form-data": "^4.0.1"
   }
 }
