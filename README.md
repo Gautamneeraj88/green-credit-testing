@@ -1,6 +1,7 @@
 Test Coverage
 
 This repository includes a set of unit tests to validate the functionality of the API endpoints. Below are the details of the tests performed:
+
 Activity Tests
 
     Test Case: Create a New Activity
@@ -76,6 +77,7 @@ Expected Outcome:
     The response body should contain a data field with a list of trees.
 
 Test Result: ✅ Passed
+
 Summary
 
     Test Suites: 3 executed, all passed.
